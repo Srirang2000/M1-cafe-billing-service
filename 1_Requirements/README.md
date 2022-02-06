@@ -37,4 +37,16 @@
 * other Coffee sublets
 * another wave of covid-19
 
-## 4 W's and 1 H
+### 4 W's and 1 H
+
+### where is it used ? 
+* Billing system can be used in any restaurants,shops,any other business.
+
+### who will benefit ?
+* restaurants and stores can use this applcation to quickly develop Bills.
+
+### how does this work ?
+* add new items that are ordred to bill
+* calculate amount by multiplying with quantity
+* calculate subtotal by adding price of each item on bill
+* add tax amount to subtotal and calculate total amount
