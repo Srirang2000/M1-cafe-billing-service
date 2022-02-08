@@ -1,4 +1,4 @@
-# Architectue
+# Architecture
 
 ## Design 
 * Structural

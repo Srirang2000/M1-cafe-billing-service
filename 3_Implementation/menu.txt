@@ -1,0 +1,13 @@
+Choose items to Order
+---------------------
+1.CAPPUCCINO
+2.LATTE
+3.CORTADO
+4.ESPRESSO
+5.AMERICANO
+6.BLACK
+7.MOCHA
+8.IRISH
+9.Display
+10.delete any item
+11.exit
