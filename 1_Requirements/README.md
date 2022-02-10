@@ -42,6 +42,9 @@
 ### where is it used ? 
 * Billing system can be used in any restaurants,shops,any other business.
 
+### what is main advantage ?
+* No need of manual calculations,giving a detailed discription of the order.
+
 ### who will benefit ?
 * restaurants and stores can use this applcation to quickly develop Bills.
 
