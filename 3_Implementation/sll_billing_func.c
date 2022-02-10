@@ -6,7 +6,7 @@
 #include <time.h>
 #include"sll_billing_main.h"
 
-total_amt;
+int total_amt=0;
 
 void order_func(int slno1,char item[30],int quantity1,float price1)
 {

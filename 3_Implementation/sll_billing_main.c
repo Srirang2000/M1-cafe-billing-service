@@ -11,8 +11,6 @@ void order_func(int ,char *,int ,float );
 void print();
 
 
-float total_amt = 0;
-
 void main()
 {
     //.........................reading items from menu........................
