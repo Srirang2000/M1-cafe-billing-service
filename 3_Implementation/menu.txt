@@ -9,5 +9,4 @@ Choose items to Order
 7.MOCHA
 8.IRISH
 9.Display
-10.delete any item
 11.exit
