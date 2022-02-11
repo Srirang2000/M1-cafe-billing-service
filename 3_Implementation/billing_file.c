@@ -29,7 +29,7 @@ void main()
     ///.........................reading items from menu........................
     struct bill *temp;
     char menu_line[100];
-    temp = (struct bill *)malloc(sizeof(struct bill *));
+    temp = (struct bill *)malloc(sizeof(struct bill ));
     FILE *the_menu=fopen("menu.txt", "r");                              
     /// reading menu from txt file
     if(the_menu==NULL)
