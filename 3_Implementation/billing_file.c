@@ -155,7 +155,7 @@ void print()
         printf(".......................................................\n");
         printf("\t\t\t subtotal amount = %.2f\n",total_amt);         
         /// display subtotal amount
-        printf("\t\t\t\t    %5 TAX = %.2f \n",tax);                     
+        printf("\t\t\t\t  5 percent TAX = %.2f \n",tax);                     
         /// display tax amount
         printf("\t\t\t    Total amount = %.2f\n",(tax+total_amt));          
         /// add and display tax and subtotal
