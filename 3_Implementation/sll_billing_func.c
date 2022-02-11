@@ -66,7 +66,7 @@ void print()    //to print the values in the linked list
         }
         printf(".......................................................\n");
         printf("\t\t\t subtotal amount = %.2f\n",total_amt);
-        printf("\t\t\t\t    %5 TAX = %.2f \n",tax);
+        printf("\t\t\t\t    5 percent TAX = %.2f \n",tax);
         printf("\t\t\t    Total amount = %.2f\n",(tax+total_amt));
     }
 }
