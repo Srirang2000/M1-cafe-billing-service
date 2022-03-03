@@ -1,5 +1,3 @@
-#include "src_calculation.c"
-#include "src_tax.c"
 #include <stdio.h>
 
 int main()
@@ -11,3 +9,4 @@ int main()
     printf("Total amt: %d\n", total_amt);
     printf("tax amount: %d\n",tax_amount);
 }
+

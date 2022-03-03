@@ -6,7 +6,7 @@ PROJECT_NAME = coffee_billing_util
 BUILD = build
 
 # All source code files
-SRC = billing_file.c\
+SRC = billing_file_main.c\
 sll_billng_func.c\
 sll_billng_main.c
 
